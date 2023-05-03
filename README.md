@@ -1,4 +1,6 @@
+<!--
 ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=crudl4d.visitor-badge&left_color=blue&right_color=black)
+-->
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
